@@ -1,0 +1,35 @@
+GetEthPriceIntent tell me the current price
+GetEthPriceIntent give me the current price
+GetEthPriceIntent tell me the current price of ether
+GetEthPriceIntent give me the current price of ether
+GetEthPriceIntent tell me the current price of ethereum
+GetEthPriceIntent give me the current price of ethereum
+GetEthPriceIntent give price info
+GetEthPriceIntent tell me price info
+GetEthPriceIntent price
+GetEthPriceIntent value
+GetEthPriceIntent change
+GetEthPriceIntent tell me the current value in U S Dollars
+GetEthPriceIntent give me the current value
+GetEthPriceIntent give me the current value in U S dollars
+GetEthPriceIntent get me the current value
+GetEthPriceIntent get me the current price
+GetEthPriceIntent get me the current info
+GetEthChangeIntent tell me the hourly change
+GetEthChangeIntent give me the hourly change
+GetEthChangeIntent how much has the value changed
+GetEthChangeIntent how much has the cost changed
+GetEthChangeIntent how much has the value of ether changed
+GetEthChangeIntent how much has the cost of ether changed
+GetEthChangeIntent how much has the value of ethereum changed
+GetEthChangeIntent how much has the cost of ethereum changed
+GetEthChangeIntent get the hourly change
+GetEthChangeIntent get me the hourly change
+GetEthChangeIntent get the change
+GetEthChangeIntent get the change in ether's value
+GetEthChangeIntent get the change in ethereum's value
+GetEthChangeIntent how much has ether changed
+GetEthChangeIntent how much has ethereum changed
+GetEthChangeIntent get me the change
+GetEthChangeIntent give me the change
+GetEthChangeIntent give me change
