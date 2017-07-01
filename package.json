@@ -1,7 +1,7 @@
 {
-  "name": "skill-sample-nodejs-fact-i18n",
+  "name": "alexa-ethereum",
   "version": "1.0.0",
-  "description": "I18n version of fact skill.",
+  "description": "Alexa Skill to get ether price",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -9,7 +9,9 @@
   "keywords": [
     "alexa",
     "skill",
-    "fact"
+    "ethereum",
+    "aws",
+    "lambda"
   ],
   "author": "Amazon.com",
   "license": "Apache-2.0",
